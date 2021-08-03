@@ -1,7 +1,7 @@
 Under construction. 08/03/2020
 
 ## Common Interview Problems
-### FizzBuzz
+[FizzBuzz (Python)](https://github.com/SLAldridge/SAldridge/blob/main/FizzBuzz.py)
 
 ## OOP Concepts
 Simple implementations of OOP concepts
