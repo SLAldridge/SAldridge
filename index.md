@@ -13,7 +13,7 @@ Simple implementations of OOP concepts
 ### Polymorphism
 ### Data Abstraction
 
-# CS Concepts
+## CS Concepts
 Simple implementations of CS concepts
 
 ### Recursion
