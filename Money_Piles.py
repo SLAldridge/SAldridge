@@ -29,6 +29,7 @@ def get_int():
         return integer_value
             
 def create_array():
+    # Not pretty, but I think this is easier to read.
     d = get_dollar()
     i = get_int()
     div = int(d // i)
