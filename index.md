@@ -1,5 +1,3 @@
-Junior dev portfolio projects. Under construction. 08/03/2021.
-
 ## Common Interview Problems
 [FizzBuzz (Python)](https://github.com/SLAldridge/SAldridge/blob/main/FizzBuzz.py)
 
