@@ -10,6 +10,8 @@ class Person:
             print("You killed my father. Prepare to die.")
 
 # Class Junior_Dev inherits from class Person
+# Inheritance allows us to use the properties and methods of a superclass
+# while creating properties and methods that are specific to a subclass
 class Junior_Dev(Person):
     def __init__(self):
         Person.__init__(self, "Code", "Monkey")
