@@ -9,10 +9,10 @@ Under construction:
 ## OOP Concepts
 Simple implementations of OOP concepts
 
-### Inheritance
-### Encapsulation
-### Polymorphism
-### Data Abstraction
+* Inheritance
+* Encapsulation
+* Polymorphism
+* Abstraction
 
 ## CS Concepts
 Simple implementations of CS concepts
