@@ -1,6 +1,9 @@
-// Encapsulation is a means of hiding the implementation details of a class from the user
-// and I am not about to try to demonstrate encapsulation in Python
-// The easiest way to demonstrate this is through getters and setters that operate on private methods/attributes
+// Encapsulation is a means of hiding the implementation details of a class from the user, 
+// so we determine what properties/methods a user can access, and how.
+// The easiest way to demonstrate this is through getters and setters.
+
+// I'm going with Java here because encapsulation in Python is more of a suggestion, 
+// whereas encapsulation in Java is like: https://www.youtube.com/watch?v=_NNYI8VbFyY
 
 public Class Person {
     // These cannot be directly accessed outside of this class.
