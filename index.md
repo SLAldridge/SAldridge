@@ -9,8 +9,8 @@ Under construction:
 ## OOP Concepts
 Simple implementations of OOP concepts
 
-* Inheritance
-* Encapsulation
+* [Inheritance](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/inheritance.py)
+* [Encapsulation](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/encapsulation.java) 
 * Polymorphism
 * Abstraction
 
