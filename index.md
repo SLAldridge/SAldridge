@@ -4,15 +4,13 @@
 * [Tip Calculator (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/tip_calculator.py)
 * [Playing with Pandas (Jupyter Notebook)](https://nbviewer.jupyter.org/github/SLAldridge/Pandas_Projects/blob/main/playing_with_pandas/Playing_with_Pandas.ipynb) - I recommend downloading the Jupyter Notebook and csv files from [here](https://github.com/SLAldridge/Pandas_Projects), since the dropdown list doesn't render in nbviewer
 
-Under construction: 
-
 ## OOP Concepts
-Simple implementations of OOP concepts
+* [**Inheritance**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/inheritance.py): Inheritance is best demonstrated by subclassing. One class can inherit properties and methods from a parent class. Those properties or methods can be overridden or overloaded as necessary in the child class, and custom properties and methods can be created specifically for the child class. 
+* [**Encapsulation**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/encapsulation.java): Encapsulation is a way of hiding implementation details from a user. In this demo, I've got a class with private properties and public getters and setters. The user of the class can only access those properties through the public methods. I can easily make those properties read only simply by removing the setters. 
+* **Polymorphism**: Poly (many) morph (forms - polymorphism refers to the ability to have multiple implementations share the same interface. A good demonstration of this is method overloading. You can write the same method to accept varying numbers and types of arguments. 
+* **Abstraction**: It's easy to confuse this with encapsulation because both encapsulation and abstraction hide implementation details from users. Abstraction is more general. Whereas encapsulation is more about what a user has permission to do, abstraction is more about what a user needs to know. A good example of this is an API. You as the user can use the methods exposed in the API without knowing how they're implemented. 
 
-* [Inheritance](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/inheritance.py)
-* [Encapsulation](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/encapsulation.java) 
-* Polymorphism
-* Abstraction
+Under construction: 
 
 ## CS Concepts
 Simple implementations of CS concepts
