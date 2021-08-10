@@ -10,15 +10,14 @@
 * [**Polymorphism**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/polymorphism.java): Poly (many) morph (forms) - polymorphism refers to the ability to have multiple implementations share the same interface. A good demonstration of this is method overloading. You can write the same method to accept varying numbers and types of arguments. 
 * **Abstraction**: It's easy to confuse this with encapsulation because both encapsulation and abstraction hide implementation details from users. Abstraction is more general. Whereas encapsulation is more about what a user has permission to do with an interface, abstraction is more about what a user needs to know in order to use the interface. A good example of this is an API. You as the user can use the methods exposed in the API without knowing how they're implemented (abstraction). But an API can be implemented without encapsulation so that if you choose to, you can directly modify implementation details.
 
-
 Under construction: 
 
 ## CS Concepts
 Simple implementations of CS concepts
 
-### Recursion
+**Recursion**: The old joke is that "to understand recursion, you have to understand recursion." A function is recursive when it calls itself. I've included some recursion in the [money piles](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py) script, above. 
 
-### Dynamic programming
+**Dynamic programming**
 
 ### Data Structures
 
