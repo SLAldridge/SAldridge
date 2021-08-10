@@ -17,7 +17,7 @@ Simple implementations of CS concepts
 
 **Recursion**: The old joke is that "to understand recursion, you have to understand recursion." A function is recursive when it calls itself. I've included some recursion in the [money piles](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py) script, above. 
 
-**Dynamic programming**
+**Dynamic programming**: I'm trying to think of an example that isn't the Fibonacci series. 
 
 ### Data Structures
 
