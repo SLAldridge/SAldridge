@@ -9,14 +9,3 @@
 * [**Encapsulation**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/encapsulation.java): Encapsulation is a way of hiding implementation details from a user. In this demo, I've got a class with private properties and public getters and setters. The user of the class can only access those properties through the public methods. I can easily make those properties read only simply by removing the setters. 
 * [**Polymorphism**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/polymorphism.java): Poly (many) morph (forms) - polymorphism refers to the ability to have multiple implementations share the same interface. A good demonstration of this is method overloading. You can write the same method to accept varying numbers and types of arguments. 
 * **Abstraction**: It's easy to confuse this with encapsulation because both encapsulation and abstraction hide implementation details from users. Abstraction is more general. Whereas encapsulation is more about what a user has permission to do with an interface, abstraction is more about what a user needs to know in order to use the interface. A good example of this is an API. You as the user can use the methods exposed in the API without knowing how they're implemented (abstraction). But an API can be implemented without encapsulation so that if you choose to, you can directly modify implementation details.
-
-## CS Concepts
-**Recursion**: The old joke is that "to understand recursion, you have to understand recursion." A function is recursive when it calls itself. I've included some recursion in the [money piles](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py) script, above. 
-
-**Dynamic programming**: Dynamic programming is where you split a problem into smaller sub-problems, and store the answers to smaller problems for retrieval later, so that you don't have to re-compute any answers. This uses more memory, but fewer CPU cycles, since you only have to calculate the values to the sub-problem once. It's important to note that dynamic programming isn't just defined by the divide and conquer approach (like binary search), but also by the storage of answers to smaller sub-problems. Popular dynamic programming example problems include the knapsack problem and the fibonacci series. Dynamic programming is often confused with recursion because recursion is frequently used in dynamic programming. 
-
-Under construction: 
-
-### Data Structures
-
-### Algorithms 
