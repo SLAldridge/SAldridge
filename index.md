@@ -13,7 +13,7 @@
 ## CS Concepts
 **Recursion**: The old joke is that "to understand recursion, you have to understand recursion." A function is recursive when it calls itself. I've included some recursion in the [money piles](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py) script, above. 
 
-**Dynamic programming**: Dynamic programming is where you split a problem into smaller sub-problems, and store the values to smaller problems. This uses more memory, but fewer CPU cycles, since you only have to calculate the values to the sub-problem once. It's important to note that dynamic programming isn't just defined by the divide and conquer approach (like binary search), but also by the storage of answers to smaller sub-problems. Popular dynamic programming example problems include the knapsack problem and the fibonacci series. 
+**Dynamic programming**: Dynamic programming is where you split a problem into smaller sub-problems, and store the values to smaller problems. This uses more memory, but fewer CPU cycles, since you only have to calculate the values to the sub-problem once. It's important to note that dynamic programming isn't just defined by the divide and conquer approach (like binary search), but also by the storage of answers to smaller sub-problems. Popular dynamic programming example problems include the knapsack problem and the fibonacci series. Dynamic programming is often confused with recursion because recursion is frequently used in dynamic programming. 
 
 Under construction: 
 
