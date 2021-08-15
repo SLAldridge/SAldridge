@@ -16,7 +16,7 @@ print(fib(1))
 print(fib(2))
 
 # Alternatively, save only the numbers used for calculating the next in the series. 
-# This reduces space complexity, but will require more CPU cycles if the function is called more than once. 
+# This reduces space complexity, but will increase total time complexity if the function is called more than once. 
 def fib2(n):
     fn2 = [0, 1]
     if n in [0, 1]: f = n
