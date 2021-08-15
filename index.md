@@ -2,6 +2,7 @@
 * [Bottom-up Fibonacci series](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/not_quite_dynamic_fib.py) - I use a while loop instead of recursion, but the complexity should still be O(n)
 * [FizzBuzz (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/FizzBuzz.py)
 * [Playing with Pandas (Jupyter Notebook)](https://nbviewer.jupyter.org/github/SLAldridge/Pandas_Projects/blob/main/playing_with_pandas/Playing_with_Pandas.ipynb) - I recommend downloading the Jupyter Notebook and csv files from [here](https://github.com/SLAldridge/Pandas_Projects), since the dropdown list doesn't render in nbviewer
+* * [Recursion](https://github.com/SLAldridge/SAldridge/blob/main/CS_Concepts/recursion..py) - a simple demonstration of recursion
 * [Sort Money Into Piles (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py)
 * [Tip Calculator (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/tip_calculator.py)
 
@@ -10,6 +11,3 @@
 * [**Encapsulation**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/encapsulation.java): Encapsulation is a way of hiding implementation details from a user. In this demo, I've got a class with private properties and public getters and setters. The user of the class can only access those properties through the public methods. I can easily make those properties read only simply by removing the setters. 
 * [**Polymorphism**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/polymorphism.java): Poly (many) morph (forms) - polymorphism refers to the ability to have multiple implementations share the same interface. A good demonstration of this is method overloading. You can write the same method to accept varying numbers and types of arguments. 
 * **Abstraction**: It's easy to confuse this with encapsulation because both encapsulation and abstraction hide implementation details from users. Abstraction is more general. Whereas encapsulation is more about what a user has permission to do with an interface, abstraction is more about what a user needs to know in order to use the interface. A good example of this is an API. You as the user can use the methods exposed in the API without knowing how they're implemented (abstraction). But an API can be implemented without encapsulation so that if you choose to, you can directly modify implementation details.
-
-## CS Concepts
-* [Recursion](https://github.com/SLAldridge/SAldridge/blob/main/CS_Concepts/recursion..py)
