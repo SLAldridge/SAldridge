@@ -15,7 +15,8 @@ print(fib(0))
 print(fib(1))
 print(fib(2))
 
-#alternatively - save only the numbers used for calculating the next in the series. 
+# Alternatively, save only the numbers used for calculating the next in the series. 
+# This reduces space complexity, but will require more CPU cycles if the function is called more than once. 
 def fib2(n):
     fn2 = [0, 1]
     if n in [0, 1]: f = n
@@ -30,6 +31,7 @@ def fib2(n):
     return f"Fib of {n} is {f}"
 
 print(fib2(8))
-print(fib2(0))
+print(fib2(32))
 print(fib2(2))
-print(fib2(1))
+print(fib2(0))
+print(fib2(32))
