@@ -10,7 +10,7 @@ fn = [0, 1]
 
 def fib(n):
     m = len(fn)
-    # If the param is < the length of fn, then fib(n) will already be defined. 
+    # If the param is an int < len(fn), then fib(n) will already be defined. 
     if n <= m:
         f = fn[n]
     else: 
