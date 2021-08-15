@@ -3,7 +3,7 @@ I don't think this would be considered dynamic programming because there's no re
 but it's my preferred solution. The time complexity should still = O(n), and I don't have 
 to write any conditionals for n = 0 or n = 1. 
 
-I haven't included any checks here. It's a toy problem. There's no need to complicate the code. 
+I haven't included any validation here. It's a toy problem. There's no need to complicate the code. 
 '''
 
 fn = [0, 1]
