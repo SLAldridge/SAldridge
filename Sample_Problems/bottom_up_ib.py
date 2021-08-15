@@ -5,7 +5,7 @@ def fib(n):
     if n < m:
         f = fn[n]
     else: 
-        for m in range(m, n):
+        for int in range(m, n):
             f = fn[-2] + fn[-1]
             fn.append(f)
     return f"Fib of {n} is {f}"
