@@ -1,7 +1,7 @@
 '''
 I don't think this would be considered dynamic programming because there's no recursion,
-but the time complexity should still = O(n), and I don't have to write any conditionals
-for n = 0 or n = 1
+but it's my preferred solution. The time complexity should still = O(n), and I don't have 
+to write any conditionals for n = 0 or n = 1. 
 If I were defining fn outside of the function, I'd probably use a dictionary instead
 because this function relies on the list being ordered.
 '''
