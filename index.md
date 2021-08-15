@@ -3,6 +3,7 @@
 * [Sort Money Into Piles (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/Money_Piles.py)
 * [Tip Calculator (Python)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/tip_calculator.py)
 * [Playing with Pandas (Jupyter Notebook)](https://nbviewer.jupyter.org/github/SLAldridge/Pandas_Projects/blob/main/playing_with_pandas/Playing_with_Pandas.ipynb) - I recommend downloading the Jupyter Notebook and csv files from [here](https://github.com/SLAldridge/Pandas_Projects), since the dropdown list doesn't render in nbviewer
+* [Bottom-up Fibonacci series](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/not_quite_dynamic_fib.py) - I use a while loop instead of recursion, but the complexity should still be O(n)
 
 ## OOP Concepts
 * [**Inheritance**](https://github.com/SLAldridge/SAldridge/blob/main/OOP_Concepts/inheritance.py): Inheritance is best demonstrated by subclassing. One class can inherit properties and methods from a parent class. Those properties or methods can be overridden or overloaded as necessary in the child class as needed. This saves a lot of code duplication. 
