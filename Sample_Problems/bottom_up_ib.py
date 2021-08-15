@@ -15,7 +15,7 @@ print(fib(0))
 print(fib(1))
 print(fib(2))
 
-#alternatively 
+#alternatively - save only the numbers used for calculating the next in the series. 
 def fib2(n):
     fn2 = [0, 1]
     if n in [0, 1]: f = n
