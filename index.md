@@ -12,4 +12,4 @@
 * **Abstraction**: It's easy to confuse this with encapsulation because both encapsulation and abstraction hide implementation details from users. Abstraction is more general. Whereas encapsulation is more about what a user has permission to do with an interface, abstraction is more about what a user needs to know in order to use the interface. A good example of this is an API. You as the user can use the methods exposed in the API without knowing how they're implemented (abstraction). But an API can be implemented without encapsulation so that if you choose to, you can directly modify implementation details.
 
 ## CS Concepts
-[Recursion](https://github.com/SLAldridge/SAldridge/blob/main/CS_Concepts/recursion..py) - this is a malicious, but effective demonstration. 
+* [Recursion](https://github.com/SLAldridge/SAldridge/blob/main/CS_Concepts/recursion..py)
