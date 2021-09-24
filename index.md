@@ -1,3 +1,5 @@
+I don't really know what to put on a portfolio, so here are some sample problems that are common in entry-level dev interviews. 
+
 ## Sample Problems
 * [Bottom-up Fibonacci series](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/bottom_up_ib.py)
 * [FizzBuzz (Java)](https://github.com/SLAldridge/SAldridge/blob/main/Sample_Problems/FizzBuzz.java)
